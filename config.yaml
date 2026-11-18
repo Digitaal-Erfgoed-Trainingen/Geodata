@@ -35,7 +35,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY-NC 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/Malcanisto/Geodata' # FIXME
+source: 'https://github.com/Digitaal-Erfgoed-Trainingen/Geodata'
 
 # Default branch of your lesson
 branch: 'main'
